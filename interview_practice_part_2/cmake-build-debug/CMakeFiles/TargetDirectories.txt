@@ -1,0 +1,3 @@
+/Users/thongdang/Desktop/C++/interview_practice_part_2/cmake-build-debug/CMakeFiles/interview_practice_part_2.dir
+/Users/thongdang/Desktop/C++/interview_practice_part_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thongdang/Desktop/C++/interview_practice_part_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
